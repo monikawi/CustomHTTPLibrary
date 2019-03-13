@@ -1,5 +1,4 @@
 # CustomHTTPLibrary
-+ Example
 
 Custom library for making HTTP requests: GET, POST, PUT, DELETE. 
 
